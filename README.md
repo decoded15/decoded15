@@ -6,7 +6,7 @@ Computer Science student passionate about Machine Learning, AI engineering, back
 
 - Advanced FastAPI
 - RAG Pipelines
-- Local LLM Workflows
+- LLM Workflows
 - AI Agents
 - Machine Learning
 
