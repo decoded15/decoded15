@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dibyansh 👋
 
-<!--
-**decoded15/decoded15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about Machine Learning, AI engineering, backend development, and building real-world applications using Python and FastAPI.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Advanced FastAPI
+- RAG Pipelines
+- Local LLM Workflows
+- AI Agents
+- Machine Learning
+
+## Connect With Me
+
+- GitHub: https://github.com/decoded15
+- Gmail: mohantydibyansh77@gmail.com
+- LinkedIn: in/dibyansh-mohanty-a0b99a188
+
+---
