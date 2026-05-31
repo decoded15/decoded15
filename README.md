@@ -14,6 +14,5 @@ Computer Science student passionate about Machine Learning, AI engineering, back
 
 - GitHub: https://github.com/decoded15
 - Gmail: mohantydibyansh77@gmail.com
-- LinkedIn: in/dibyansh-mohanty-a0b99a188
-
+  
 ---
