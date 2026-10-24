@@ -1,69 +1,165 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=decoded15&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174360579%3Fu%3D21a459f7a7c998150b795a8dc56a6a70c3926170%26v%3D4" alt="decoded15 hero visual" />
-</p>
 
-<p align="center"><b>Dibyansh Mohanty</b> · Backend or systems engineer<br/><sub>Building applications with FastAPI, Python, and LLMs.
-Focused on backend development, RAG systems, and practical AI tools.</sub></p>
-
-<p align="center"><a href="https://github.com/decoded15">GitHub</a></p>
-
-<details open>
-<summary><b>📌 Top projects</b></summary>
-<br/>
+<!--
+  DIBYansh / decoded15
+  Minecraft Overworld • Backend Engineering • AI/LLMs
+-->
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=decoded15&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174360579%3Fu%3D21a459f7a7c998150b795a8dc56a6a70c3926170%26v%3D4" alt="decoded15 projects visual" />
+  <img src="assets/minecraft-readme-banner.png" width="100%" alt="Minecraft-inspired developer world — Dibyansh Mohanty" />
 </p>
 
-- [LEETCODE](https://github.com/decoded15/LEETCODE) · ★ 1 — A collection of LeetCode solutions and core Data Structures &amp; Algorithms (DSA) problems.
-- [notes-summarizer](https://github.com/decoded15/notes-summarizer) · ★ 1 — Notes Summarizer built using Python, Streamlit, and Google Gemini API. Supports TXT/PDF uploads, mul
-- [code-reviewer](https://github.com/decoded15/code-reviewer) · ★ 0 — Repository-aware coding assistant with AST analysis, semantic retrieval, ChromaDB memory, and Gemini
-- [ai-pdf-chatbot](https://github.com/decoded15/ai-pdf-chatbot) · ★ 0 — PDF Chatbot built using FastAPI, Streamlit, FAISS, Sentence Transformers, and Gemini AI. Supports se
-- [resume-analyzer](https://github.com/decoded15/resume-analyzer) · ★ 0 — Resume Analyzer built using FastAPI, Streamlit, and Gemini AI. Upload resumes, extract structured da
-- [image-captioner](https://github.com/decoded15/image-captioner) · ★ 0 — Local AI-powered Image Captioning app built using Hugging Face Transformers, BLIP, PyTorch, and Stre
-
-</details>
-
-<details>
-<summary><b>🧰 Stack</b></summary>
-<br/>
+<h1 align="center">⛏️ Dibyansh Mohanty</h1>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=decoded15&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174360579%3Fu%3D21a459f7a7c998150b795a8dc56a6a70c3926170%26v%3D4" alt="decoded15 stack visual" />
+  <a href="https://github.com/decoded15">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=7CFC00&center=true&vCenter=true&width=550&lines=Backend+Engineer+in+Progress;Building+with+Python+%26+FastAPI;Exploring+LLMs%2C+RAG+%26+AI+Tools;Build.+Learn.+Improve.+Repeat." alt="Typing introduction" />
+  </a>
 </p>
-
-</details>
-
-<details>
-<summary><b>📊 By the numbers</b></summary>
-<br/>
-
-<b>9</b> public repositories, <b>2</b> stars, <b>559</b> contributions in the last year, a longest streak of <b>37</b> days and <b>7</b> followers.
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=decoded15&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174360579%3Fu%3D21a459f7a7c998150b795a8dc56a6a70c3926170%26v%3D4" alt="decoded15 stats visual" />
+  <code>~/overworld/developer</code> &nbsp; • &nbsp;
+  <code>status: building</code> &nbsp; • &nbsp;
+  <code>mode: creative</code>
 </p>
 
-</details>
+---
 
-<details>
-<summary><b>🟩 Activity</b></summary>
-<br/>
+## 🌿 `whoami`
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### Hey, I'm Dibyansh! 👋
+
+A Computer Science student who loves building things at the intersection of **backend development and AI**.
+
+I work with Python, FastAPI and LLMs, and enjoy creating practical tools, RAG systems and automation projects.
+
+Currently exploring better ways to build useful AI-powered applications.
+
+```python
+class Developer:
+    name = "Dibyansh Mohanty"
+    username = "decoded15"
+    focus = ["Backend", "LLMs", "RAG"]
+    toolkit = ["Python", "FastAPI", "AI"]
+
+    def next_quest(self):
+        return "Build something useful."
+```
+
+</td>
+<td width="35%" valign="top">
+
+### 🧭 Player profile
+
+- 📍 Bhubaneswar, India
+- 🎓 B.Tech CSE
+- 🐍 Python backend
+- ⚡ FastAPI
+- 🧠 LLMs & RAG
+- 🛠️ AI-powered tools
+- 🌱 Always learning
+
+<p>
+  <a href="https://github.com/decoded15">
+    <img src="https://img.shields.io/badge/GitHub-decoded15-18202b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 `top-projects`
+
+<p>
+  <sub>📦 Selected builds from my inventory</sub>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [Notes Summarizer](https://github.com/decoded15/notes-summarizer)
+
+Summarize notes and PDFs with Google's Gemini API.
+
+`Python` `Streamlit` `Gemini`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [Code Reviewer](https://github.com/decoded15/code-reviewer)
+
+A repository-aware coding assistant with AST analysis, semantic retrieval and ChromaDB memory.
+
+`Python` `ChromaDB` `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [AI PDF Chatbot](https://github.com/decoded15/ai-pdf-chatbot)
+
+Chat with PDF documents using retrieval-augmented generation and LLMs.
+
+`FastAPI` `FAISS` `Gemini`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [Resume Analyzer](https://github.com/decoded15/resume-analyzer)
+
+Extract structured information from resumes with AI-powered analysis.
+
+`FastAPI` `Streamlit` `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖼️ [Image Captioner](https://github.com/decoded15/image-captioner)
+
+Local AI image captioning using BLIP and Hugging Face Transformers.
+
+`Python` `PyTorch` `BLIP`
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=decoded15&theme=neon" alt="decoded15 contribution activity" />
+  <sub>⚒️ Every project is another block placed.</sub>
 </p>
 
-</details>
+---
 
-<details>
-<summary><b>👋 Say hello</b></summary>
-<br/>
+## 🟩 `contribution-activity`
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=decoded15&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174360579%3Fu%3D21a459f7a7c998150b795a8dc56a6a70c3926170%26v%3D4" alt="decoded15 social visual" />
+  <img src="https://ghchart.rshah.org/22c55e/decoded15" alt="GitHub contribution calendar for decoded15" width="100%" />
 </p>
 
-</details>
+<p align="center">
+  <sub>🌱 Small commits. New skills. One block at a time.</sub>
+</p>
 
-<p align="center"><sub>Dibyansh Mohanty · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center">
+  <code>while (curious) { learn(); build(); repeat(); }</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/decoded15">GitHub</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/decoded15?tab=repositories">Explore my repositories</a>
+</p>
+
+<p align="center">
+  <sub>Crafted with ☕, Python, and a little Minecraft energy.</sub>
+</p>
