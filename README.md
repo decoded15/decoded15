@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="assets/minecraft-readme-banner.png" width="100%" alt="Minecraft-inspired developer world — Dibyansh Mohanty" />
+  <img src="minecraft-readme-banner.png" width="100%" alt="Minecraft-inspired developer world — Dibyansh Mohanty" />
 </p>
 
 <h1 align="center">⛏️ Dibyansh Mohanty</h1>
