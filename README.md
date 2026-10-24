@@ -44,9 +44,6 @@ class Developer:
     username = "decoded15"
     focus = ["Backend", "LLMs", "RAG"]
     toolkit = ["Python", "FastAPI", "AI"]
-
-    def next_quest(self):
-        return "Build something useful."
 ```
 
 </td>
